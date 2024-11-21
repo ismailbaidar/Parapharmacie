@@ -1,0 +1,13 @@
+C:\Users\ibaid\Desktop\Parapharmacie\Client\bin\Debug\Client.exe.config
+C:\Users\ibaid\Desktop\Parapharmacie\Client\bin\Debug\Client.exe
+C:\Users\ibaid\Desktop\Parapharmacie\Client\bin\Debug\Client.pdb
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.exe
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.pdb
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.Form1.resources
+C:\Users\ibaid\Desktop\Parapharmacie\Client\bin\Debug\Middleware.dll
+C:\Users\ibaid\Desktop\Parapharmacie\Client\bin\Debug\Middleware.pdb
+C:\Users\ibaid\Desktop\Parapharmacie\Client\obj\Debug\Client.csproj.Up2Date

@@ -1,0 +1,6 @@
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\bin\Debug\Middleware.dll
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\bin\Debug\Middleware.pdb
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\obj\Debug\Middleware.csproj.AssemblyReference.cache
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\obj\Debug\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\obj\Debug\Middleware.dll
+C:\Users\ibaid\Desktop\Parapharmacie\Middleware\obj\Debug\Middleware.pdb

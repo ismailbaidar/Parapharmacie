@@ -41,6 +41,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\ICategoryRPC.cs" />
+    <Compile Include="Interfaces\IProductRPC.cs" />
+    <Compile Include="Interfaces\IRoleRPC.cs" />
     <Compile Include="Interfaces\IUserRPC.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

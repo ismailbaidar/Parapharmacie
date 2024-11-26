@@ -8,7 +8,10 @@ namespace Middleware.Interfaces
 {
     public interface IUserRPC
     {
-        bool Login(string Email,string Password);
+        List<object> Login(string Email,string Password);
         bool Register(string Email, string Password, string Name, int RoleId);
+        List<Dictionary<string, object>> getAllUsers();
+        void ResetPassword(int userId);
+        void DeleteUser(int userId);
     }
 }

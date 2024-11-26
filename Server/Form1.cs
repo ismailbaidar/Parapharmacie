@@ -53,10 +53,7 @@ namespace Server
             typeof(Role), "role", WellKnownObjectMode.
             SingleCall);
 
-            // Cart
-            RemotingConfiguration.RegisterWellKnownServiceType(
-            typeof(Cart), "cart", WellKnownObjectMode.
-            SingleCall);
+            
             progressBar1.Value = 100;
         }
 

@@ -3,36 +3,49 @@
   "WorkspaceRootPath": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B389A2B-B758-4EEB-8CA3-7509C112211B}|..\\Middleware\\Middleware.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\middleware\\interfaces\\iuserrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B389A2B-B758-4EEB-8CA3-7509C112211B}|..\\Middleware\\Middleware.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\middleware\\interfaces\\icategoryrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B389A2B-B758-4EEB-8CA3-7509C112211B}|..\\Middleware\\Middleware.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\middleware\\interfaces\\irolerpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B389A2B-B758-4EEB-8CA3-7509C112211B}|..\\Middleware\\Middleware.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\middleware\\interfaces\\iuserrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{175F29E1-AC7B-42E2-B7C8-DF62E2B37E9A}|Client.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B389A2B-B758-4EEB-8CA3-7509C112211B}|..\\Middleware\\Middleware.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\middleware\\interfaces\\iproductrpc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21CE89B9-FBEA-4573-8D80-7B9B31022893}|..\\Server\\Server.csproj|c:\\users\\ibaid\\desktop\\parapharmacie\\server\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,135 +55,189 @@
       "DocumentGroups": [
         {
           "DockedWidth": 295,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IUserRPC.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IUserRPC.cs",
-              "RelativeDocumentMoniker": "..\\Middleware\\Interfaces\\IUserRPC.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IUserRPC.cs",
-              "RelativeToolTip": "..\\Middleware\\Interfaces\\IUserRPC.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:58:11.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs*",
-              "RelativeToolTip": "Form1.cs*",
-              "ViewState": "AgIAACYAAAAAAAAAAAAUwDMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:44:49.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Form1.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
-              "RelativeToolTip": "..\\Server\\Form1.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAkwDsAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:29:43.866Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Cart.cs",
-              "RelativeToolTip": "..\\Server\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:27:16.638Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Category.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Entities\\Category.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Category.cs",
-              "RelativeToolTip": "..\\Server\\Entities\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:26:57.988Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Product.cs",
-              "RelativeToolTip": "..\\Server\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:25:58.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Role.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Role.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Entities\\Role.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Role.cs",
-              "RelativeToolTip": "..\\Server\\Entities\\Role.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:25:07.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\User.cs",
-              "RelativeToolTip": "..\\Server\\Entities\\User.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAewEQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:23:34.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
-              "RelativeDocumentMoniker": "..\\Server\\Form1.cs",
-              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs [Design]",
-              "RelativeToolTip": "..\\Server\\Form1.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:11:40.878Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs [Design]*",
               "RelativeToolTip": "Form1.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-20T17:11:18.951Z",
+              "WhenOpened": "2024-11-24T20:10:13.843Z",
+              "IsPinned": true,
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IProductRPC.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IProductRPC.cs",
+              "RelativeDocumentMoniker": "..\\Middleware\\Interfaces\\IProductRPC.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IProductRPC.cs",
+              "RelativeToolTip": "..\\Middleware\\Interfaces\\IProductRPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T20:26:25.745Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRoleRPC.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IRoleRPC.cs",
+              "RelativeDocumentMoniker": "..\\Middleware\\Interfaces\\IRoleRPC.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IRoleRPC.cs",
+              "RelativeToolTip": "..\\Middleware\\Interfaces\\IRoleRPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T13:30:54.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRPC.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IUserRPC.cs",
+              "RelativeDocumentMoniker": "..\\Middleware\\Interfaces\\IUserRPC.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\IUserRPC.cs",
+              "RelativeToolTip": "..\\Middleware\\Interfaces\\IUserRPC.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAhwA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:58:11.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.cs*",
+              "RelativeToolTip": "Form1.cs*",
+              "ViewState": "AgIAAGABAAAAAAAAAAASwHIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:44:49.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
+              "RelativeToolTip": "..\\Server\\Form1.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wDcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:29:43.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Category.cs",
+              "RelativeToolTip": "..\\Server\\Entities\\Category.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAUwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:26:57.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\User.cs",
+              "RelativeToolTip": "..\\Server\\Entities\\User.cs",
+              "ViewState": "AgIAAIcAAAAAAAAAAAAkwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:23:34.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Role.cs",
+              "RelativeToolTip": "..\\Server\\Entities\\Role.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAUwIcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:25:07.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Form1.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\Server\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T11:47:50.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRPC.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\ICategoryRPC.cs",
+              "RelativeDocumentMoniker": "..\\Middleware\\Interfaces\\ICategoryRPC.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Middleware\\Interfaces\\ICategoryRPC.cs",
+              "RelativeToolTip": "..\\Middleware\\Interfaces\\ICategoryRPC.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:22:10.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Entities\\Product.cs",
+              "RelativeToolTip": "..\\Server\\Entities\\Product.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T17:25:58.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Client\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAADEDAAAAAAAAAAAYwB0FAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:02:29.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "..\\Server\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\ibaid\\Desktop\\Parapharmacie\\Server\\Form1.Designer.cs",
+              "RelativeToolTip": "..\\Server\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-22T17:17:42.417Z",
+              "EditorCaption": ""
             }
           ]
         }
